@@ -4,7 +4,6 @@ import utilities.StackADT;
 import utilities.Iterator;
 
 import java.util.EmptyStackException;
-import java.util.NoSuchElementException;
 
 
 public class MyStack<E> implements StackADT<E> {
